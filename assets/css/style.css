@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  font-family: "Poppins", "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.header {
+  height: 6em;
+  padding: 1.5em;
+  font-size: 2.5em;
+  background-image: url(../img/banner_head.jpg);
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  color: #a2ec00;
+  margin: 0;
+}
+h2 {
+  color: #a2ec00;
+  font-size: 1.3em;
+  font-weight: 300;
+  margin: 0;
+}
+.main {
+  background-color: rgb(241, 241, 241);
+}
+.futbolistas {
+  width: 80%;
+  margin: auto;
+}
+.futbolistas td {
+  width: 50%;
+  padding: 2em;
+}
+.futbolistas img {
+  width: 100%;
+}
+hr.solid {
+  border-top: 2px solid #bbb;
+  column-span: 2;
+}
+h3 {
+  font-size: 1.6em;
+  padding: 0 0 6px 0;
+}
+p {
+  color: rgb(69, 69, 69);
+  font-size: 1.1em;
+  line-height: 1.3em;
+}
+.footer{
+    height: 5em;
+    line-height: 3em;
+    padding: 1em;
+    background-color: #231F20;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    }
